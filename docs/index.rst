@@ -10,6 +10,7 @@ Welcome to inducfur's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   README
    notes_on_induction_furnace
    notes_on_metal
 
