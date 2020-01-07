@@ -9,6 +9,7 @@ Requirements
 Energy for fusion
 -----------------
 
+.. image:: heat_temperature_diagram.png
 
 At 101325 Pa (normal atmospheric pressure)
 
