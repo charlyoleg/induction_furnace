@@ -14,6 +14,7 @@ set xlabel 'Temperature (°C)'
 set ylabel 'Thermal energy (J)'
 plot \
   'water_T-100.dat' title 'Water' with lines, \
+  'nitrogen_T-100.dat' title 'Nitrogen' with lines, \
   'iron_T-100.dat' title 'Iron' with lines, \
   'aluminium_T-100.dat' title 'Aluminium' with lines, \
   'copper_T-100.dat' title 'Copper' with lines, \
