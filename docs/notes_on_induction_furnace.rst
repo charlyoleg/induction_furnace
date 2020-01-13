@@ -112,4 +112,8 @@ If 10% of the energy is transfer per oscillation, we need 10J oscillating in the
   u = 307 (V)
   i = 408 (A)
 
+If 1% of the energy is transfer per oscillation, we need 100J oscillating in the LC-circuit::
+
+  u =  973 (V)
+  i = 1291 (A)
 
