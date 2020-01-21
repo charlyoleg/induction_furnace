@@ -90,12 +90,12 @@ Energy to melt 1 kg of metal::
 
 
 
-Reminder::
+Reminder:
 
-  1 bar = 100000 Pa
-  1 Pa = 1 N/m2 = 1 J/m3
-  1 cal = 4.1855 J
-  1 mol = 6.022 * 10**23
+.. math::  1 bar = 100000 Pa
+.. math::  1 Pa = 1 Nm^{-2} = 1 J m^{-3}
+.. math::  1 cal = 4.1855 J
+.. math::  1 mol = 6.022 * 10^{23}
 
 
 Auxiliary table
