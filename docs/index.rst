@@ -13,6 +13,7 @@ Welcome to inducfur's documentation!
    README
    notes_on_induction_furnace
    notes_on_metal
+   notes_on_capacitors
 
 
 
